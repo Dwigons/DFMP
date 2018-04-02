@@ -1187,7 +1187,7 @@ class Ui_TabWidget(object):
         koe1 = 2 + knl + knp + kvl + kvp
         nepvl = 2 + knl + knp +kvl
         nepvp = 2 + knl +knp +kvl + 1
-        nso = 0
+        nso = 1
         
         
 
